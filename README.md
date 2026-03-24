@@ -22,7 +22,7 @@
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/CodeAlpha_EventRegistrationSystem.git](https://github.com/your-username/CodeAlpha_EventRegistrationSystem.git)
+   git clone [https://github.com/Shadaatamer/CodeAlpha_EventRegistrationSystem.git](https://github.com/Shadaatamer/CodeAlpha_EventRegistrationSystem.git)
 
 2. Install dependencies:
    npm install
